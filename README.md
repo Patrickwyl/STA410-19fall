@@ -1,5 +1,6 @@
 # STA410-19fall
-school work of STA410H1 F (Fall) Statistical Computation
+school work of STA410H1 F (Fall) Statistical Computation\
+https://fas.calendar.utoronto.ca/course/sta410h1
 ## Course Description
 Programming in an interactive statistical environment. Generating random variates and evaluating statistical methods by simulation. Algorithms for linear models, maximum likelihood estimation, and Bayesian inference. Statistical algorithms such as the Kalman filter and the EM algorithm. Graphical display of data.
 ## Marks for STA410 Assignments
