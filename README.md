@@ -8,3 +8,5 @@ Assignment 1: 50/50 \
 Assignment 2: 46.5/50 \
 Assignment 3: 49/50 \
 Assignment 4: 46/50 
+## Important
+As per University of Toronto's policy on Turnitin.com, all my assignment/lab/project files were (automatically) submitted to Turnitin plagiarism detection software. My assignment/lab/project submissions has been included as source documents in the Turnitin.com reference database. My assignment/lab/project works here are not intended to be reused for any academic purposes.
